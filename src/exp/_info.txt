@@ -1,0 +1,9 @@
+001: deberta-v3-large
+002: electra-large
+003: electra-base
+004: bert-base-uncased
+005: t5-large
+006: roberta-large
+007: deberta-v3-large no awp
+008: deberta-v3-large + mlm (WIP)
+009: longformer-large-4096

@@ -1,0 +1,4 @@
+*.pth
+src/output
+**/.ipynb_checkpoints
+data/*
